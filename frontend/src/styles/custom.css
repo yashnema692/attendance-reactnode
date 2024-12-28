@@ -1,0 +1,81 @@
+/* Custom styles for login, signup, and dashboard */
+body {
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  /* Custom background and text color for login page */
+  .bg-primary-custom {
+    background-color: #007bff !important;
+  }
+  
+  .bg-info-custom {
+    background-color: #17a2b8 !important;
+  }
+  
+  .card-custom {
+    border-radius: 20px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  }
+  
+  .card-body-custom {
+    padding: 2rem;
+  }
+  
+  /* Button custom styles */
+  .btn-custom {
+    border-radius: 30px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    padding: 10px 30px;
+    font-size: 1.1rem;
+  }
+  
+  .btn-custom:hover {
+    background-color: #218838;
+  }
+  
+  /* Navbar custom styles */
+  .navbar-custom {
+    background-color: #004085;
+  }
+  
+  .navbar-custom .navbar-brand {
+    font-weight: bold;
+  }
+  
+  .navbar-custom .nav-link {
+    color: white;
+  }
+  
+  .navbar-custom .nav-link:hover {
+    color: #ffcc00;
+  }
+  
+  /* Footer custom styles */
+  .footer {
+    background-color: #343a40;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+  .footer a {
+    color: #ffcc00;
+  }
+  
+  .footer a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Custom form controls */
+  .form-control-custom {
+    border-radius: 25px;
+    padding: 12px;
+  }
+  
+  .text-center-custom {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
